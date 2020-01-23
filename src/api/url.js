@@ -1,0 +1,1 @@
+export const Base_URL = "http://192.168.100.112:7000/get";
